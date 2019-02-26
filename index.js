@@ -4,8 +4,8 @@ function scuberGreetingForFeet(distance) {
 
    if (distance <= 400) {
     response = "This one is on me!"
-    
-  } 
+
+  }
 
   else if (distance > 2000) {
     if (distance > 2500) {
